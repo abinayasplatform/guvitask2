@@ -9,7 +9,7 @@ DOCUMENT OBJECTS :
 
 Properties of Document :
 
-* body - It returns the contents of the body element.
+* body - It returns the contents of the body element.c
 * head - It returns the head element of the document.
 * title - It returns the title element of the document.
 * URL  -  It returns the complete URL of the document.
