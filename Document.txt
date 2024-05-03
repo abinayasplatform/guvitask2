@@ -1,0 +1,37 @@
+Write a blog on the difference between document and window objects.
+
+DOCUMENT OBJECTS :
+
+•	The Document objects represents a web page that is loaded in the browser.
+•	By accessing the document object, we can access the element in the HTML page.
+•	It can be accessed with a window.document or document
+•	With the help of document object, we can add dynamic content to our web page.
+
+Properties of Document :
+
+* body - It returns the contents of the body element.c
+* head - It returns the head element of the document.
+* title - It returns the title element of the document.
+* URL  -  It returns the complete URL of the document.
+* doctype - It returns the document’s doctype.
+
+Methods of Document :
+
+* createComment() - It is used to create a comment node with some text.
+* createElement() - It is used to create HTML element .
+* write() - It is used to write content or javascript code in the document.
+* writeln() - It is used to write a document with a newline character after each statement.
+
+Key features of the Document Object:
+
+1.	DOM Manipulation :
+        It allows the developers to change the text content of an element,attributes and create new elements.
+2.	Element Selection :
+        This helps the developers to select an element by ID.
+3.	DOM Events :
+        It helps to adding a click event listener to a button such as clicks,keypresses and form submission.
+
+
+
+
+
